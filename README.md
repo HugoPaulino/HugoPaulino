@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HugoPaulino 
+- 👋 Hi, I’m @HugoPaulino I am a beekeeper and entrepreneur who likes Machine learning topics and Computer Vision.
 - 👀 I’m interested in Machine Learning and MLOps
 - 🌱 I’m currently learning Computer Vision 
 - 📫 How to reach me hugo.paulino.santos@gmail.com
